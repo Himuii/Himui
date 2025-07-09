@@ -1,21 +1,39 @@
-🌿 Himaan's Ghibli-Inspired Hub
- 
-Hello, I'm Himaan, a web developer enchanted by the whimsical worlds of Studio Ghibli! 🌱 I weave code with the magic of HTML, CSS, JavaScript, and Tailwind CSS, crafting projects that echo the charm of Totoro’s forests and Chihiro’s adventures. Dive into my Ghibli-inspired coding journey below!
-🍃 About Me
+<h1 align="center">Hi there 👋, I'm Himaan</h1>
+<h3 align="center">💻 Anime lover | Web Dev | Gamer 🎮</h3>
 
-🎬 Favorite Ghibli Films: My Neighbor Totoro, Spirited Away, Howl’s Moving Castle
-💻 Skills: HTML, CSS, JavaScript, Tailwind CSS, React
-🌟 Currently Crafting: A Ghibli character gallery with soft, animated transitions
-📚 Learning: Node.js to bring dynamic magic to my projects
-📬 Connect: Email | Twitter
+<p align="center">
+  <img src="https://media.giphy.com/media/2A75RyXVzzSI2bx4Gj/giphy.gif" width="200"/>
+</p>
 
-🏞️ Featured Projects
+---
 
-Ghibli Gallery: A serene website showcasing Ghibli characters with pastel designs and subtle animations.
-Totoro Card: An interactive card featuring Totoro with hover effects inspired by Ghibli’s warmth.
-Portfolio: My personal portfolio with a Ghibli-esque aesthetic, using earthy tones and smooth transitions.
+🧠 **About Me:**
 
-🌌 GitHub Stats
+- 🔭 I’m currently working on something cool!
+- 🌱 I’m learning full-stack development
+- 💬 Ask me about anime, coding, or gaming
+- 📫 How to reach me: [your email or link]
 
-🌸 Fun Fact
-I dream of coding a game where you explore a Ghibli-style forest with Totoro! Want to collaborate on a magical project? Let’s create something as enchanting as a Catbus ride! 🐾
+---
+
+### 🎌 My Favorite Anime:
+- Attack on Titan
+- Demon Slayer
+- Jujutsu Kaisen
+- Death Note
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 🎨 Aesthetic / Anime Banners
+
+![banner](https://i.imgur.com/xSydR6v.png) <!-- Replace with your own -->
+
