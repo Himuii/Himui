@@ -5,15 +5,15 @@
 
 <!-- Intro -->
 <h1 align="center">Hi, I'm Himaan 👋</h1>
-<p align="center">🌱 Frontend Developer | UI Designer | Tech Enthusiast</p>
+<p align="center">🌱 I am still studying</p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🧠 I specialize in building responsive, clean interfaces with **HTML, CSS, Tailwind, JavaScript, and React**
-- 🛠 Currently learning: TypeScript & backend basics
-- 💼 Looking for freelance or internship opportunities
+- 🧠 I specialize in building responsive, clean interfaces with **HTML, CSS, Tailwind,**
+- 🛠 Currently learning: Java script
+- 💼 Looking for fun projects
 - 🎨 I enjoy design systems, web animations & user experience
 
 ---
